@@ -1,0 +1,18 @@
+{
+    "version": "0.1",
+    "name": "DHIS2_DEMO Application",
+    "description": "DHIS demo application",
+    "launch_path": "/index.html",
+    "appType": "APP",
+    
+    "developer": {
+        "name": "Rizwan"
+    },
+    "default_locale": "en",
+    "activities": {
+        "dhis": {
+            "href": "https://play.dhis2.org/demo",
+            "namespace": "dhis2_demo"
+        }
+    }
+}
